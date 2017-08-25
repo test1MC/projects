@@ -1,0 +1,107 @@
+/*<meta sourceDocument="C:\Users\dspencer\Documents\timesheets\Time off tracker.xlsx" />*/
+
+table
+{
+	padding: 0;
+	margin: 0;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+col
+{
+	width: 65px;
+	padding: 0;
+	margin: 0;
+}
+
+tr
+{
+	height: auto;
+	padding: 0;
+	margin: 0;
+}
+
+td
+{
+	font-family: Calibri;
+	font-size: 11px;
+	background: white;
+	color: black;
+	padding: 0px;
+	border: none;
+}
+
+.Default
+{
+	vertical-align: bottom;
+	font-family: "Calibri", "Swiss";
+	font-size: 11px;
+	color: #000000;
+}
+
+.s16
+{
+	vertical-align: bottom;
+}
+
+.s17
+{
+	vertical-align: bottom;
+	background-color: #BDD7EE;
+}
+
+.s18
+{
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.s19
+{
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.s20
+{
+	text-align: center;
+	vertical-align: bottom;
+	background-color: #FF0000;
+}
+
+.s21
+{
+	
+}
+
+.s22
+{
+	text-align: center;
+	vertical-align: bottom;
+	background-color: #FF0000;
+}
+
+.s23
+{
+	text-align: center;
+	vertical-align: bottom;
+	font-family: "Calibri", "Swiss";
+	font-size: 11px;
+	color: #FF0000;
+}
+
+.s24
+{
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.s25
+{
+	font-family: "Calibri", "Swiss";
+	font-size: 11px;
+	color: #000000;
+	font-weight: bold;
+}
+

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport
+  SaveWorkbookToFolder="false"
+  WorksheetImportType="topic"
+  PersistFirstRowAsHeader="false"
+  LimitRows="false"
+  LimitRowsCount="30"
+  SaveChartsAs="false"
+  SaveChartsAsType="Png"
+  ConvertEquations="true"
+  ExclusionFilters=""
+  CreateMasterTopic="false"
+  IncludeWorksheetTitlesAsHeadings="false"
+  ImportHiddenRowsColumns="false"
+  KeepSourceLinks="true"
+  AutoSync="false"
+  Stylesheet=""
+  PreserveSourceStyles="true"
+  LastImport="2017-08-25T14:02:47.5501239-07:00">
+  <Files>
+    <Url
+      Source="../../../../../timesheets/Time off tracker.xlsx"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/timesheets/Time off tracker.xlsx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Stylesheets/Time off tracker.css"
+      TimeStamp="25-Aug-17 2:02:44 PM" />
+    <Url
+      Source="../../Content/Time off tracker/Sheet1.htm"
+      TimeStamp="25-Aug-17 2:02:44 PM" />
+    <Url
+      Source="../TOCs/Time off tracker.fltoc"
+      TimeStamp="25-Aug-17 2:02:45 PM" />
+  </GeneratedFiles>
+</MsExcelImport>
